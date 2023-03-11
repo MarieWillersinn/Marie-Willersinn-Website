@@ -1,4 +1,5 @@
 body {
+    background-color: rgba(210, 210, 210, 0.904);
     margin: 10px !important;
 }
 
@@ -93,7 +94,6 @@ body {
 }
 
 .Text {
-    text-align: center;
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -101,6 +101,11 @@ body {
     margin-top: 30px;
     margin-left: 80px;
     margin-right: 300px;
+}
+
+.AboutMe{
+    line-height: 150%;
+    font-weight: bold;
 }
 
 .ArrowDown {
